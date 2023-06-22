@@ -1,2 +1,4 @@
 # u-langchain
-LangChain利用web app
+LangChainを使ったアプリケーション
+
+
